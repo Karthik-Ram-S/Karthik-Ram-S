@@ -11,7 +11,7 @@
 
 <br />
 <h3 align="left">About me:</h3>
-<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="510" height="440">
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="460" height="390">
 
  🔭 I’m currently working as **Intern on AI/CLOUD at Edunet Foundations in collaboration with IBM**
 
