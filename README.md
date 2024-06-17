@@ -15,7 +15,7 @@
 
  🌱 I’m currently learning about **Data Science and Analytics**
 
-📫 How to reach me **karthikram18042003@gmail.com**
+📫 You can reach me at **karthikram18042003@gmail.com**
 
 <br />
 
