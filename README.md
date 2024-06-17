@@ -1,4 +1,6 @@
-![MasterHead](https://camo.githubusercontent.com/428849a3d464b1157a940971233a54d081bfa7ea3f3a47c62d1e2854c0e19566/68747470733a2f2f70726f736566756c2e696d6769782e6e65742f626c6f67732f64663337333431342d653737632d346433642d386337622d3335636635356632333339362f696d616765732f34336263316535372d356665662d343436302d626630382d3466373966333635343535352e676966)
+![MasterHead](https://s4.ezgif.com/tmp/ezgif-4-12f2f0163b.gif)
+
+
 <h1 align="center">Hi 👋, I'm Karthik Ram S.</h1>
 <h3 align="center">BTech CSE student, specializing in AI & ML</h3>
 
@@ -9,7 +11,7 @@
 
 <br />
 <h3 align="left">About me:</h3>
-<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="510" height="440">
 
  🔭 I’m currently working as **Intern on AI/CLOUD at Edunet Foundations in collaboration with IBM**
 
